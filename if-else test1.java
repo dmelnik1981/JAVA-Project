@@ -7,5 +7,6 @@ class MyProg {
         if (num1>num2){
             System.out.println("Махатма");
         } else System.out.println("Джавахарлал");
+        sc.close();
 	}
 }
