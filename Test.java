@@ -7,6 +7,7 @@ class Test {
         System.out.println(st);
         int number = sc.nextInt();
         System.out.println(number);
+        sc.close();
 
    }
 }
